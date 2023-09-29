@@ -1,4 +1,4 @@
-import Building from './5-building';
+import Building from './6-sky_high';
 
 class SkyHighBuilding extends Building {
   constructor(sqft, floors) {
